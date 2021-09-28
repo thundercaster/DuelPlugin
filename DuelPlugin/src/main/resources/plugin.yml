@@ -1,0 +1,10 @@
+name: Duel
+version: '${project.version}'
+main: me.thundercaster.duel.Duel
+api-version: 1.16
+authors: [ ThunderCaster ]
+description: Set a duel 
+commands:
+  Duel:
+    description: duel someone
+    usage: /<command>
